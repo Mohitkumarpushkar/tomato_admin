@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
   // backend url
- 
+  const url="https://tom-upze.onrender.com";
   return (
     <div>
       <ToastContainer />
